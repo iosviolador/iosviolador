@@ -23,7 +23,7 @@ web  $  www.nigger.works
       <ul>
         <li>@iosxvv</li>
         <li>Not working on anything right now. My most recent project was "RobloxGrabber"</li>
-        <li>⌨️</li>
+        <li>I'm a really tuff dev (i love rust and python!)</li>
       </ul>
     </td>
 </table>
