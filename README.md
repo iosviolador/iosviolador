@@ -4,7 +4,7 @@
 root@iosxvv
 discord user   $  @iosxvv
 dc serv $  https://discord.gg/violador 
-web  $  www.nigger.works 
+web  $  offline, data on the website is invalid
 ```
 &zwnj; 
 &zwnj;
