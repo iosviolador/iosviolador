@@ -56,8 +56,8 @@ web  $  offline, data on the website is invalid
 <hr>
 
 <p align="center">
-  <a href="https://github.com/wmaontop"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
+  <a href="https://github.com/iosviolador"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
   <a href="https://discord.com/users/1421770554809122858"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
-  <a href="https://t.me/wma"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="https://t.me/ios_violador"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
   <a href="mailto:iosxvv@proton.me"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
