@@ -1,9 +1,7 @@
 ![](https://lanyard.cnrad.dev/api/6?bg=0000&hideTag=true)
 
 ```csharp
-root@
-discord user   $  @
-dc serv $  https://discord.gg/ 
+root@iosxvv
 web  $  offline, data on the website is invalid
 ```
 &zwnj; 
@@ -58,6 +56,6 @@ web  $  offline, data on the website is invalid
 <p align="center">
   <a href="https://github.com/iosviolador"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
   <a href="https://discord.com/users/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
-  <a href="https://t.me/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
-  <a href="mailto:@proton.me"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
+  <a href="https://t.me/nutinass"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="mailto:iosxvv@proton.me"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
