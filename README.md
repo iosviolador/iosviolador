@@ -2,8 +2,8 @@
 
 ```csharp
 root@iosxvv
-discord user   $  @iosxvv
-dc serv $  https://discord.gg/violador 
+discord user   $  @
+dc serv $  https://discord.gg/ 
 web  $  offline, data on the website is invalid
 ```
 &zwnj; 
@@ -21,8 +21,8 @@ web  $  offline, data on the website is invalid
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>@iosxvv</li>
-        <li>Not working on anything right now. My most recent project was "RobloxGrabber"</li>
+        <li>@</li>
+        <li>Not working on anything right now. My most recent project was ""</li>
         <li>I'm a really tuff dev (i love rust and python!)</li>
       </ul>
     </td>
