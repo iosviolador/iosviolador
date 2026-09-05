@@ -1,7 +1,7 @@
-![](https://lanyard.cnrad.dev/api/1510376288651706500?bg=0000&hideTag=true)
+![](https://lanyard.cnrad.dev/api/6?bg=0000&hideTag=true)
 
 ```csharp
-root@iosxvv
+root@
 discord user   $  @
 dc serv $  https://discord.gg/ 
 web  $  offline, data on the website is invalid
